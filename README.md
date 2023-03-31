@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
-<h4 align="center" style="text-align:justify;">Hi, I'm Muhammad Zain, a skilled Full Stack Developer with over 2 years of experience in developing high-quality SaaS applications. Currently, I'm proud to be a part of the Verge Inc team, where I work diligently to provide top-notch technology solutions to our clients.
+<h4 align="justify" style="text-align:justify;">Hi, I'm Muhammad Zain, a skilled Full Stack Developer with over 2 years of experience in developing high-quality SaaS applications. Currently, I'm proud to be a part of the Verge Inc team, where I work diligently to provide top-notch technology solutions to our clients.
 
 My area of expertise is in SaaS application development, and I possess a deep understanding of every aspect of the development cycle, from front-end design to back-end coding. I strive to create efficient and innovative solutions that meet the needs of clients in diverse industries.
 
