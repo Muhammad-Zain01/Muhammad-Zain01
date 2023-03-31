@@ -3,9 +3,11 @@
 <br><br>
 Aside from my work at Verge Inc, I'm also an entrepreneur at heart. I've started my own startup, Techdore, which provides custom web development solutions to clients seeking tailored solutions to their technology needs.With my wealth of experience in full stack development, I am a reliable and valuable partner for any company or organization looking to build a cutting-edge SaaS application or customized web solution.
 </h4>
+<hr>
 <h3>About Techdore</h3>
 <h4 align="justify" style="text-align:justify;">Techdore is a young and dynamic web development company that specializes in providing customized solutions to businesses of all sizes.I started this startup in March 2023, we strive to offer the best quality web development services that cater to the unique needs of our clients. Our team of experienced developers works diligently to provide top-notch solutions in a timely and cost-effective manner. From e-commerce platforms to dynamic websites, we take pride in delivering cutting-edge web development solutions that help our clients achieve their business objectives.
-<br><br><hr>
+<br>
+<hr>
 </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-zain01&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-zain01" /> </p>
 
