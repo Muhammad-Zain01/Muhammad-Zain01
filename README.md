@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
-<h3 align="center">I am a full stack developer with expertise in a range of programming languages and frameworks. My focus is on creating high-quality and user-friendly web applications, with a strong emphasis on both front-end and back-end development. With exceptional problem-solving abilities and a dedication to quality, I am committed to delivering outstanding results on every project.</h3>
+<h4 align="center" style="text-align:justify;">I am a full stack developer with expertise in a range of programming languages and frameworks. My focus is on creating high-quality and user-friendly web applications, with a strong emphasis on both front-end and back-end development. With exceptional problem-solving abilities and a dedication to quality, I am committed to delivering outstanding results on every project.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-zain01&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-zain01" /> </p>
 
