@@ -3,9 +3,7 @@
 <br><br>
 My area of expertise is in SaaS application development, and I possess a deep understanding of every aspect of the development cycle, from front-end design to back-end coding. I strive to create efficient and innovative solutions that meet the needs of clients in diverse industries.
 <br><br>
-Aside from my work at Verge Inc, I'm also an entrepreneur at heart. I've started my own startup, Techdore, which provides custom web development solutions to clients seeking tailored solutions to their technology needs.
-<br><br>
-With my wealth of experience in full stack development, I am a reliable and valuable partner for any company or organization looking to build a cutting-edge SaaS application or customized web solution.
+Aside from my work at Verge Inc, I'm also an entrepreneur at heart. I've started my own startup, Techdore, which provides custom web development solutions to clients seeking tailored solutions to their technology needs.With my wealth of experience in full stack development, I am a reliable and valuable partner for any company or organization looking to build a cutting-edge SaaS application or customized web solution.
 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-zain01&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-zain01" /> </p>
