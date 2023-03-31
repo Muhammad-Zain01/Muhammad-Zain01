@@ -1,10 +1,9 @@
-<link rel="stylesheet" type="text/css" href="path/to/your/css/file.css">
-<h1 class="text" align="center">Hi 👋, I'm Muhammad Zain</h1>
+<h1  align="center">Hi 👋, I'm Muhammad Zain</h1>
 <h4 align="justify" style="text-align:justify;">Hi, I'm Muhammad Zain, a skilled Full Stack Developer with over 2 years of experience in developing high-quality SaaS applications. Currently, I'm proud to be a part of the Verge Inc team, where I work diligently to provide top-notch technology solutions to our clients. My area of expertise is in SaaS application development, and I possess a deep understanding of every aspect of the development cycle, from front-end design to back-end coding. I strive to create efficient and innovative solutions that meet the needs of clients in diverse industries.
 <br><br>
 Aside from my work at Verge Inc, I'm also an entrepreneur at heart. I've started my own startup, Techdore, which provides custom web development solutions to clients seeking tailored solutions to their technology needs.With my wealth of experience in full stack development, I am a reliable and valuable partner for any company or organization looking to build a cutting-edge SaaS application or customized web solution.
 </h4>
-
+<h3>About Techdore:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-zain01&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-zain01" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-zain01" alt="muhammad-zain01" /></a> </p>
