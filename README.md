@@ -30,4 +30,4 @@ Aside from my work at Verge Inc, I'm also an entrepreneur at heart. I've started
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-zain01&show_icons=true&locale=en" alt="muhammad-zain01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-zain01&" alt="muhammad-zain01" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-zain01&" alt="muhammad-zain01" /></p>
