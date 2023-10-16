@@ -4,10 +4,10 @@ I'm a passionate web developer with a strong foundation in both front-end and ba
 
 ### 💻 Tech Stack
 
-🌐 **Front-end:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Gatsby.js
-🚀 **Back-end:** Node.js, Express.js, PHP
-📦 **Databases:** MongoDB, MySQL
-🔧 **Tools:** Git, Webpack, Visual Studio Code, Sublime Text
+- 🌐 **Front-end:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Gatsby.js
+- 🚀 **Back-end:** Node.js, Express.js, PHP
+- 📦 **Databases:** MongoDB, MySQL
+- 🔧 **Tools:** Git, Webpack, Visual Studio Code, Sublime Text
 
 ### 🚀 What I Do
 
