@@ -27,7 +27,7 @@ I'm a passionate web developer with a strong foundation in both front-end and ba
 ### 📫 Get in Touch
 
  - 📧 [Email](zainmemon010@gmail.com)
- - 🌐 [Portfolio](www.muhammad-zain.com)
+ - 🌐 [Portfolio](https://www.muhammad-zain.com)
  - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-zain01)
 
 Let's connect and collaborate on exciting web projects together! 👨‍💻
