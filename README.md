@@ -30,11 +30,6 @@ I'm a passionate web developer with a strong foundation in both front-end and ba
 
 ### 📫 Get in Touch
 
- - 📧 Email : zainmemon010@gmail.com
- - 🌐 [Portfolio](https://www.muhammad-zain.com)
- - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-zain01)
-
-
 <h3 align="center">Connect with me</h3>
 <div align="center">
 <img src=https://img.shields.io/badge/zainmemon010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
@@ -46,6 +41,9 @@ I'm a passionate web developer with a strong foundation in both front-end and ba
 </a>  
 <a href="https://leetcode.com/zainmemon010/" target="_blank">
 <img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=leetcode style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.hackerrank.com/profile/zainmemon010" target="_blank">
+<img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
 </a>  
 </div>
 
