@@ -19,8 +19,8 @@ I'm a passionate <b>Full Stack Web Developer</b> with a strong foundation in bot
  <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white alt=php style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white alt=netlify style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white alt=mongodb style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white alt=mysql style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white alt=flask style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/MySQL-ea7f06?style=for-the-badge&logo=mysql&logoColor=white alt=mysql style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/Flask-ffcf42?style=for-the-badge&logo=flask&logoColor=white alt=flask style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white alt=laravel style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white alt=jquery style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white alt=redux style="margin-bottom: 5px;" />
