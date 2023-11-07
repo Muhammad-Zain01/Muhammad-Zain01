@@ -37,14 +37,14 @@ I'm a passionate web developer with a strong foundation in both front-end and ba
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
-<a href="zainmemon010@gmail.com" target="_blank">
- <img src=https://img.shields.io/badge/Gmail(zainmemon010@gmail.com)-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<a>
+ <img src=https://img.shields.io/badge/zainmemon010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/muhammad-zain01" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.muhammad-zain.com" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Portfolio-f67e09?style=for-the-badge&logo=About.me&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>  
 </div>
 
