@@ -5,8 +5,8 @@ I'm a passionate <b>Full Stack Web Developer</b> with a strong foundation in bot
 
 ### 💻 Tech Stack
 
-- 🌐 **Front-end:** 
 <img src=https://img.shields.io/badge/zainmemon010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+- 🌐 **Front-end:** 
 - 🚀 **Back-end:** Node.js, Express.js, PHP
 - 📦 **Databases:** MongoDB, MySQL
 - 🔧 **Tools:** Git, Webpack, Visual Studio Code, Sublime Text
