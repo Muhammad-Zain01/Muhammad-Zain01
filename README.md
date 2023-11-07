@@ -1,11 +1,18 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&width=445&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Zain" alt="Typing SVG" /></h1>
+<h1 align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&width=445&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Zain" alt="Typing SVG" />
+</h1>
 
 <p>
-I'm a passionate <b>Full Stack Web Developer</b> with a strong foundation in both front-end and back-end technologies. My goal is to create efficient and user-friendly web applications that not only look great but also provide exceptional user experiences.</p>
+I'm a passionate <b>Full Stack Web Developer</b> with a strong foundation in both front-end and back-end technologies. My goal is to create efficient and user-friendly web applications that not only look great but also provide exceptional user experiences.
+</p>
+
+<div>
+ <img src=https://img.shields.io/badge/zainmemon010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</div>
+
 
 ### 💻 Tech Stack
 
-<img src=https://img.shields.io/badge/zainmemon010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 - 🌐 **Front-end:** 
 - 🚀 **Back-end:** Node.js, Express.js, PHP
 - 📦 **Databases:** MongoDB, MySQL
@@ -32,8 +39,6 @@ I'm a passionate <b>Full Stack Web Developer</b> with a strong foundation in bot
 - 💼 Worked with Verge Systems on [WebHR](https://web.hr/) and [HireSide](https://hireside.com/).
 - 📚 Continuously learning and sharing knowledge through blog posts and tutorials.
 - 🌐 Actively involved in the web development community.
-
-### 📫 Get in Touch
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
