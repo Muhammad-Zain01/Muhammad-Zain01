@@ -58,5 +58,3 @@ I'm a passionate <b>Full Stack Web Developer</b> with a strong foundation in bot
 <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
 </a>  
 </div>
-
-Let's connect and collaborate on exciting web projects together! 👨‍💻
