@@ -12,18 +12,19 @@ I'm a passionate <b>Full Stack Web Developer</b> with a strong foundation in bot
  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black alt=javascript style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white alt=bootstrap style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt=react style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white alt=react style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white alt=react style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white alt=react style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white alt=react style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white alt=react style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white alt=react style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white alt=react style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white alt=react style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white alt=react style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white alt=react style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white alt=react style="margin-bottom: 5px;" />
-
+ <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white alt=node style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white alt=typescript style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white alt=sass style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white alt=python style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white alt=php style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white alt=netlify style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white alt=mongodb style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white alt=mysql style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white alt=flask style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white alt=laravel style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white alt=jquery style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white alt=redux style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white alt=MaterialUI style="margin-bottom: 5px;" />
 </div>
 
 
