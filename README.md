@@ -1,10 +1,15 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&width=445&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Zain" alt="Typing SVG" /></h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p>
+I'm a passionate <b>Full Stack Web Developer</b> with a strong foundation in both front-end and back-end technologies. My goal is to create efficient and user-friendly web applications that not only look great but also provide exceptional user experiences.</p>
 
+### 💻 Tech Stack
 
-I'm a passionate web developer with a strong foundation in both front-end and back-end technologies. My goal is to create efficient and user-friendly web applications that not only look great but also provide exceptional user experiences.
+- 🌐 **Front-end:** 
+<img src=https://img.shields.io/badge/zainmemon010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+- 🚀 **Back-end:** Node.js, Express.js, PHP
+- 📦 **Databases:** MongoDB, MySQL
+- 🔧 **Tools:** Git, Webpack, Visual Studio Code, Sublime Text
 
 ### 💻 Tech Stack
 
