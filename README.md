@@ -6,6 +6,8 @@
 I'm a passionate <b>Full Stack Web Developer</b> with a strong foundation in both front-end and back-end technologies. My goal is to create efficient and user-friendly web applications that not only look great but also provide exceptional user experiences.
 </p>
 
+### 🛠️ Technologies: 
+
 <div>
  <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white alt=html style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white alt=css style="margin-bottom: 5px;" />
