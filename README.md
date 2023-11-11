@@ -3,7 +3,12 @@
 </h1>
 
 <p>
-I'm a passionate <b>Full Stack Web Developer</b> with a strong foundation in both front-end and back-end technologies. My goal is to create efficient and user-friendly web applications that not only look great but also provide exceptional user experiences.
+I'm a Passionate <b>Full Stack Web Developer</b> with a strong foundation in both front-end and back-end technologies. My goal is to create efficient and user-friendly web applications that not only look great but also provide exceptional user experiences.
+
+👨‍💻 Throughout my career, I have developed scalable and maintainable web applications using a diverse range of technologies such as JavaScript, React, Next.js, Node.js, Express.js, and MongoDB. Collaborating with teams, I take pride in delivering high-quality solutions that go beyond expectations. As a lifelong learner, I constantly seek opportunities to expand my knowledge and skills as a developer.
+
+Beyond technical proficiency, I bring strong communication skills and a collaborative problem-solving approach. I firmly believe that open and transparent communication is the cornerstone of success.  Building solid relationships with clients and colleagues is my commitment.
+
 </p>
 
 ### 🛠️ Technologies: 
