@@ -32,6 +32,7 @@ Beyond technical proficiency, I bring strong communication skills and a collabor
  <img src=https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white alt=jquery style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white alt=redux style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white alt=MaterialUI style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/Machine%20Learning-ea7f06?style=for-the-badge&logo=ml&logoColor=white alt=MachineLearning style="margin-bottom: 5px;" />
 </div>
 
 ### 🚀 What I Do
