@@ -46,7 +46,7 @@ Beyond technical proficiency, I bring strong communication skills and a collabor
 
 ### 🌟 Achievements
 
-- 💼 Worked with Verge Systems on [WebHR](https://web.hr/) and [HireSide](https://hireside.com/).
+- 💼 Currently working with Verge Systems on [WebHR](https://web.hr/) and [HireSide](https://hireside.com/).
 - 📚 Continuously learning and sharing knowledge through blog posts and tutorials.
 - 🌐 Actively involved in the web development community.
 
