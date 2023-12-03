@@ -18,14 +18,19 @@ Beyond technical proficiency, I bring strong communication skills and a collabor
  <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white alt=css style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white alt=javascript style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white alt=bootstrap style="margin-bottom: 5px;" />
- <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt=react style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/React-0081CB?style=for-the-badge&logo=react&logoColor=61DAFB alt=react style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/next-092E20?style=for-the-badge&logo=next.&logoColor=white alt=next style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/React_Native-35495E?style=for-the-badge&logo=react&logoColor=61DAFB alt="react native" style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white alt=node style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white alt=typescript style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white alt=sass style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white alt=python style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white alt=php style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white alt=netlify style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white alt=aws style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white alt=vercel style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white alt=mongodb style="margin-bottom: 5px;" />
+ <img src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white alt=PostgreSQL style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/MySQL-ea7f06?style=for-the-badge&logo=mysql&logoColor=white alt=mysql style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/Flask-ffcf42?style=for-the-badge&logo=flask&logoColor=white alt=flask style="margin-bottom: 5px;" />
  <img src=https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white alt=laravel style="margin-bottom: 5px;" />
