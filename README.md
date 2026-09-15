@@ -28,7 +28,7 @@ AI is part of my recent work, but it is not the whole story. I use it when it ma
 - **Frontend engineering:** responsive interfaces, reusable design systems, accessibility, and performance
 - **Backend engineering:** APIs, data models, authentication, integrations, background jobs, and production systems
 - **Product ownership:** taking a product from the first idea through development, deployment, and iteration
-- **AI features when they fit:** agents, retrieval, structured extraction, and workflow automation
+- **AI features:** agents, retrieval, structured extraction, and workflow automation
 
 ## Products I’ve Built
 
@@ -55,7 +55,7 @@ It is a monorepo of independently publishable packages, designed to give develop
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,postgres,prisma,redis,docker,aws,tailwind" alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, FastAPI, PostgreSQL, Prisma, Redis, Docker, AWS, and Tailwind CSS" />
 </p>
 
-**AI when useful:** OpenAI, LangChain, RAG, agent workflows, evaluation, cost tracking  
+**AI:** OpenAI, LangChain, RAG, agent workflows, evaluation, cost tracking  
 **Product & engineering:** SaaS architecture, REST APIs, real-time systems, authentication, billing, testing, CI/CD
 
 ## How I work
